@@ -1,2 +1,3 @@
-# html-project
-Basic HTML Project 
+# html-portfolio
+Basic HTML Portfolio
+
